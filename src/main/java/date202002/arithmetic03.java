@@ -2,7 +2,6 @@ package date202002;
 
 import org.junit.Test;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 /**
